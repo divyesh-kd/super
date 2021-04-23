@@ -1,1 +1,2 @@
-This is test.txt file for merge and conflict example. -1.2
+This is test.txt file for merge and conflict example. -1.3
+Version updated. +1
